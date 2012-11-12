@@ -1,0 +1,116 @@
+patch:
+  - universe: 1
+    fixtures:
+      Dimmer_8:
+#        - {channel: 1, groups: [1]}
+#        - {channel: 3, groups: [1]}
+
+      GenericRGB:
+#        - {channel:  1, groups: [1]}
+#        - {channel:  6, groups: [1]}
+#        - {channel: 11, groups: [1]}
+#        - {channel: 16, groups: [1]}
+#        - {channel: 21, groups: [1]}
+#        - {channel: 26, groups: [1]}
+
+      ADJ_MegaTriBar_3CH:
+        - {channel:   1, invert: false, groups: [0,5,3,4]}
+        - {channel:  55, invert: true , groups: [0,5,3,4,10]}
+        - {channel: 109, invert: true , groups: [0,5,3,4,10]}
+        - {channel: 163, invert: false, groups: [0,5,3,4,10]}
+        - {channel: 217, invert: true , groups: [0,5,3,4,10]}
+        - {channel: 271, invert: false, groups: [0,5,3,4,10]}
+        - {channel: 325, invert: true , groups: [0,5,2,10]}
+        - {channel: 379, invert: false, groups: [0,5,2,10]}
+        - {channel: 433, invert: true , groups: [0,5,2,10]}
+
+  - universe: 2
+    fixtures:
+      ADJ_MegaTriBar_3CH:
+        - {channel:   1, invert: false, groups: [0,5,2,10]}
+        - {channel:  55, invert: true , groups: [0,5,2,10]}
+        - {channel: 109, invert: false, groups: [0,5,2,10]}
+        - {channel: 163, invert: true , groups: [0,5,1,4,10]}
+        - {channel: 217, invert: false, groups: [0,5,1,4,10]}
+        - {channel: 271, invert: true , groups: [0,5,1,4,10]}
+        - {channel: 325, invert: false, groups: [0,5,1,4,10]}
+        - {channel: 379, invert: false, groups: [0,5,1,4,10]}
+        - {channel: 433, invert: true , groups: [0,5,1,4]}
+
+  - universe: 3
+    fixtures:
+      ADJ_MegaTriBar_3CH:
+#        - {channel:   1, groups: [1]}
+#        - {channel:  55, groups: [1]}
+#        - {channel: 109, groups: [1]}
+#        - {channel: 163, groups: [1]}
+#        - {channel: 217, groups: [1]}
+#        - {channel: 271, groups: [1]}
+#        - {channel: 325, groups: [1]}
+#        - {channel: 379, groups: [1]}
+#        - {channel: 433, groups: [1]}
+
+  - universe: 4
+    fixtures:
+      ADJ_MegaTriBar_3CH:
+#        - {channel:   1, groups: [1]}
+#        - {channel:  55, groups: [1]}
+#        - {channel: 109, groups: [1]}
+#        - {channel: 163, groups: [1]}
+#        - {channel: 217, groups: [1]}
+#        - {channel: 271, groups: [1]}
+#        - {channel: 325, groups: [1]}
+#        - {channel: 379, groups: [1]}
+#        - {channel: 433, groups: [1]}
+
+  - universe: 5
+    fixtures:
+      ADJ_MegaTriBar_3CH:
+#        - {channel:   1, groups: [1]}
+#        - {channel:  55, groups: [1]}
+#        - {channel: 109, groups: [1]}
+#        - {channel: 163, groups: [1]}
+#        - {channel: 217, groups: [1]}
+#        - {channel: 271, groups: [1]}
+#        - {channel: 325, groups: [1]}
+#        - {channel: 379, groups: [1]}
+#        - {channel: 433, groups: [1]}
+
+  - universe: 6
+    fixtures:
+      ADJ_MegaTriBar_3CH:
+#        - {channel:   1, groups: [1]}
+#        - {channel:  55, groups: [1]}
+#        - {channel: 109, groups: [1]}
+#        - {channel: 163, groups: [1]}
+#        - {channel: 217, groups: [1]}
+#        - {channel: 271, groups: [1]}
+#        - {channel: 325, groups: [1]}
+#        - {channel: 379, groups: [1]}
+#        - {channel: 433, groups: [1]}
+
+  - universe: 7
+    fixtures:
+      ADJ_MegaTriBar_3CH:
+#        - {channel:   1, groups: [1]}
+#        - {channel:  55, groups: [1]}
+#        - {channel: 109, groups: [1]}
+#        - {channel: 163, groups: [1]}
+#        - {channel: 217, groups: [1]}
+#        - {channel: 271, groups: [1]}
+#        - {channel: 325, groups: [1]}
+#        - {channel: 379, groups: [1]}
+#        - {channel: 433, groups: [1]}
+
+  - universe: 8
+    fixtures:
+      ADJ_MegaTriBar_3CH:
+#        - {channel:   1, groups: [1]}
+#        - {channel:  55, groups: [1]}
+#        - {channel: 109, groups: [1]}
+#        - {channel: 163, groups: [1]}
+#        - {channel: 217, groups: [1]}
+#        - {channel: 271, groups: [1]}
+#        - {channel: 325, groups: [1]}
+#        - {channel: 379, groups: [1]}
+#        - {channel: 433, groups: [1]}
