@@ -117,6 +117,7 @@ var SawDim = base.Effect.extend({
     },
 
     render: function () {
+
         if (!this.enabled) {
             return;
         }

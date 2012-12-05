@@ -21,7 +21,7 @@ var prng = require('../prng');
 //
 //        remote.on('osc:/1/fader3', _.bind(this.onSpeed, this));
 //
-//        this.time = 0;
+//        this.time = 0
 //        this.lastTime = Date.now();
 //
 //    },
